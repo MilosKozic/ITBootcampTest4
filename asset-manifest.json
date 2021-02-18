@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ITBootcampTest4/static/js/main.d781414d.chunk.js",
+    "main.js.map": "/ITBootcampTest4/static/js/main.d781414d.chunk.js.map",
+    "runtime-main.js": "/ITBootcampTest4/static/js/runtime-main.8b1bd499.js",
+    "runtime-main.js.map": "/ITBootcampTest4/static/js/runtime-main.8b1bd499.js.map",
+    "static/js/2.3d491c44.chunk.js": "/ITBootcampTest4/static/js/2.3d491c44.chunk.js",
+    "static/js/2.3d491c44.chunk.js.map": "/ITBootcampTest4/static/js/2.3d491c44.chunk.js.map",
+    "index.html": "/ITBootcampTest4/index.html",
+    "static/js/2.3d491c44.chunk.js.LICENSE.txt": "/ITBootcampTest4/static/js/2.3d491c44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b1bd499.js",
+    "static/js/2.3d491c44.chunk.js",
+    "static/js/main.d781414d.chunk.js"
+  ]
+}
